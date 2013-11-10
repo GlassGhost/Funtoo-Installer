@@ -1,0 +1,1 @@
+/media/owner/DATA/Shared/Images/Funtoo-Installer/file2base64sh.sh
